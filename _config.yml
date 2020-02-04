@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   A lonely meme floats gently in the wind... what does it have to say....
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://murdiff.com" # the base hostname & protocol for your site
+url: "murdiff.com" # the base hostname & protocol for your site
 github_username:  murdiff
 
 # Build settings
